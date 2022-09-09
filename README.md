@@ -5,6 +5,8 @@
 - 💞️ I'm looking to collaborate on various projects connect to coding.
 - 📫 You can reach me by email through my professional email: afonsopalmeira@tecnico.ulisboa.pt
 
+- For more information access : https://bobalogic.github.io/CV/
+
 <!---
 Bobalogic/Bobalogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
