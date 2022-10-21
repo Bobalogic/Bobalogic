@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobalogic
 - 👀 I’m interested in learning and that's my definition
-- :mortar_board: I've worked with Python, C, HTML, Assembly and PROLOG
+- :mortar_board: I've worked with Python, C, Java, HTML, Assembly and PROLOG
 - 🌱 Currently learning Web developing!
 - 💞️ I'm looking to collaborate on various projects connect to coding.
 - 📫 You can reach me by email through my professional email: afonsopalmeira@tecnico.ulisboa.pt
