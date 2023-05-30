@@ -1,8 +1,6 @@
 
 ![HEADER](/header.png)
 
-
-- 👋 Hi, I’m Afonso Palmeira!
 - 👀 I’m interested in learning and that's my definition
 - :mortar_board: I've worked with Python, SQL, C/C++, Java, HTML and Assembly.
 - 🌱 Currently self-learning Web developing!
