@@ -8,9 +8,6 @@
 - 📫 You can reach me by email through my professional email: afonsopalmeira@tecnico.ulisboa.pt
 
 - For more information access : https://bobalogic.github.io/CV/  (In development)
-
-![Snake-Gif](https://github.com/Bobalogic/Bobalogic/blob/output/github-contribution-grid-snake.gif)
-
 <!---
 Bobalogic/Bobalogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
