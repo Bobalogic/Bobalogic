@@ -1,7 +1,7 @@
 
 ![HEADER](/header.png)
 
-- 👀 I’m interested in learning and that's my definition
+- 👀 Comp Science Engineering Student
 - :mortar_board: I've worked with Python, SQL, C/C++, Java, HTML and Assembly.
 - 🌱 Currently self-learning Web developing!
 - 💞️ I'm looking to collaborate on various projects connected to coding.
