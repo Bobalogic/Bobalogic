@@ -1,11 +1,9 @@
 
 ![HEADER](/header.png)
 
-- 👀 Comp Science Engineering Student
-- :mortar_board: I've worked with Python, SQL, C/C++, Java, HTML and Assembly.
-- 🌱 Currently self-learning Web developing!
+- 👀  Bsc. Comp Science Engineering and Network Engineer
 - 💞️ I'm looking to collaborate on various projects connected to coding.
-- 📫 You can reach me by email through my professional email: afonsopalmeira@tecnico.ulisboa.pt
+- 📫 You can reach me by email through my email: afonsopalmeira2@gmail.com
 
 - For more information access : https://bobalogic.github.io/CV/  (In development)
 <!---
