@@ -56,7 +56,7 @@ Always open to collaborate on impactful projects.
 ### 📫 How to Reach Me  
 - ✉️ Email: **afonsopalmeira2@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/afonsolobopalmeira](https://www.linkedin.com/in/afonsolobopalmeira/)  
-- 🌐 Portfolio: [bobalogic.github.io/CV](https://bobalogic.github.io/CV) _(in development)_  
+- 🌐 Portfolio: [bobalogic.github.io](https://bobalogic.github.io) _(in development)_  
 
 ---
 
