@@ -46,7 +46,7 @@ I enjoy building scalable applications, experimenting with new frameworks, and c
 
 ### 🚀 Side Projects  
 
-- **[Fixity](https://fixity.pages.dev/)** — Co-Founder & Developer  
+- **[Arli](https://arli.pt/)** — Co-Founder & Developer  
 Exploring solutions for digital trust and transparency.  
 
 Always open to collaborate on impactful projects.
